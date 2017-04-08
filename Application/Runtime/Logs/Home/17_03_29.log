@@ -1,0 +1,114 @@
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/allmobilize.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/css/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/css/popup.css
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/ajaxfileupload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/additional-methods.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/jquery.1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/conv.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/css/external.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/jquery.lib.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/search.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/core.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/popup.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/ajaxfileupload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/css/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/css/popup.css
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/additional-methods.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/conv.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/search.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/core.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:46:37+08:00 ] 127.0.0.1 /Public/HomeStyle/js/popup.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-03-29T00:50:07+08:00 ] 127.0.0.1 /index.php/Search/clearCon/id/6.html
+ERR: 非法操作:clearCon
+
+[ 2017-03-29T01:06:20+08:00 ] 127.0.0.1 /login.html
+ERR: 非法操作:index
+
+[ 2017-03-29T12:29:32+08:00 ] 127.0.0.1 /h/suggest.json?query=%E6%98%AF
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+ERR: 无法加载控制器:H
+
+[ 2017-03-29T12:30:39+08:00 ] 127.0.0.1 /h/jobs/list_C++?labelWords=label
+ERR: 无法加载控制器:H
+
+[ 2017-03-29T15:14:07+08:00 ] 127.0.0.1 /h/jobs/list_C++?labelWords=label
+ERR: 无法加载控制器:H
+
+[ 2017-03-29T15:14:12+08:00 ] 127.0.0.1 /list.htmlJava?labelWords=label&city=
+ERR: 无法加载控制器:List.htmlJava
+
+[ 2017-03-29T15:34:41+08:00 ] 127.0.0.1 /index.php/Search/h/suggest.json?query=1213
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+ERR: 非法操作:h
+
+[ 2017-03-29T16:53:29+08:00 ] 127.0.0.1 /index.php/Search/clearCon/id/6.html
+ERR: 非法操作:clearCon
+
+[ 2017-03-29T17:03:00+08:00 ] 127.0.0.1 /index.php/Search/clearCon/id/workyear.html
+ERR: 模板不存在:./Application/Home/View/index/list.html
+
+[ 2017-03-29T17:03:04+08:00 ] 127.0.0.1 /index.php/Search/clearCon/id/workyear.html
+ERR: 模板不存在:./Application/Home/View/index/list.html
+
+[ 2017-03-29T17:46:13+08:00 ] 127.0.0.1 /h/jobs/list_%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91?labelWords=label
+ERR: 无法加载控制器:H
+
+[ 2017-03-29T17:46:33+08:00 ] 127.0.0.1 /list.htmlAndroid?labelWords=label&city=
+ERR: 无法加载控制器:List.htmlAndroid
+
+[ 2017-03-29T20:34:46+08:00 ] 127.0.0.1 /index.php/Search/h/jobs/86989.html
+ERR: 非法操作:h
+
+[ 2017-03-29T20:52:58+08:00 ] 127.0.0.1 /h/jobs/list_?kd=&spc=&pl=&gj=&xl=&yx=&gx=&st=&labelWords=&lc=&workAddress=&city=
+ERR: 无法加载控制器:H
+
+[ 2017-03-29T23:42:14+08:00 ] 127.0.0.1 /index.php/Search/seache
+ERR: 非法操作:seache
+
+[ 2017-03-29T23:42:53+08:00 ] 127.0.0.1 /index.php/Search/seache
+ERR: 非法操作:seache
+

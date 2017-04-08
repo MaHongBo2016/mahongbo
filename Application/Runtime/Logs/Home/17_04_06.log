@@ -1,0 +1,24 @@
+[ 2017-04-06T00:05:12+08:00 ] 127.0.0.1 /index.php/Search/com_index.html?keyword=&city=&stage=A%E8%BD%AE&trade=
+ERR: Think\Controller:diaplay方法不存在！
+
+[ 2017-04-06T00:05:25+08:00 ] 127.0.0.1 /index.php/Search/com_index.html?keyword=&city=&stage=A%E8%BD%AE&trade=
+ERR: 模板不存在:./Application/Home/View/Search/contentlist.html
+
+[ 2017-04-06T00:16:23+08:00 ] 127.0.0.1 /index.php/Search/h/c/25829.html
+ERR: 非法操作:h
+
+[ 2017-04-06T00:40:11+08:00 ] 127.0.0.1 /index.php/Index/h/c/8250.html
+ERR: 非法操作:h
+
+[ 2017-04-06T00:40:45+08:00 ] 127.0.0.1 /Uploads/Company/Logo/1.JPEG
+ERR: 无法加载控制器:Uploads
+
+[ 2017-04-06T00:40:45+08:00 ] 127.0.0.1 /Uploads/Company/Logo/1.JPEG
+ERR: 无法加载控制器:Uploads
+
+[ 2017-04-06T00:41:30+08:00 ] 127.0.0.1 /Uploads/Company/Logo/1.JPEG
+ERR: 无法加载控制器:Uploads
+
+[ 2017-04-06T00:41:30+08:00 ] 127.0.0.1 /Uploads/Company/Logo/1.JPEG
+ERR: 无法加载控制器:Uploads
+

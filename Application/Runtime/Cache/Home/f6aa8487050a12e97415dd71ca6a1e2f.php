@@ -1,0 +1,120 @@
+<?php if (!defined('THINK_PATH')) exit();?><!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/Public/Home/css/base.css" />
+    <link rel="stylesheet" href="/Public/Home/css/info-reg.css" />
+    <title>基本信息</title>
+</head>
+
+<body>
+<!--<div class="title"><h2>基本信息</h2></div>-->
+<form  action="" method="post" center="align">
+    <!--{__TOKEN__}-->
+    <div class="main">
+        <p class="short-input ue-clear">
+            <label>姓名：</label>
+            <input type="text" name="name" placeholder="姓名" />
+        </p>
+        <!--<p class="short-input ue-clear">-->
+            <!--<label>登录OA密码：</label>-->
+            <!--<input type="password" name="pwd"  />-->
+        <!--</p>-->
+        <p class="short-input ue-clear">
+            <label>性别：</label>
+            <input type="radio" name="sex" value="男" checked style="float:none;"/>男
+            <input type="radio" name="sex" value="女" style="float:none;"/>女
+        </p>
+        <div class="short-input select ue-clear">
+            <label>学历：</label>
+            <div class="select-wrap" >
+                <select name="education" >
+                    <option name="education" value="0" selected>大专</option>
+                    <option name="education" value="0">本科</option>
+                    <option name="education" value="0">硕士</option>
+                    <option name="education" value="0">博士</option>
+                    <option name="education" value="0">其他</option>
+                </select>
+            </div>
+        </div>
+        <div class="short-input select ue-clear" >
+            <label>工作年限：</label>
+            <div class="select-wrap" >
+                <select name="work-year">
+                    <option name="work-year" value="0">应届毕业生</option>
+                    <option name="work-year" value="0">1年</option>
+                    <option name="work-year" value="0">2年</option>
+                    <option name="work-year" value="0" selected >3年</option>
+                    <option name="work-year" value="0">4年</option>
+                    <option name="work-year" value="0">5年</option>
+                    <option name="work-year" value="0">6年</option>
+                    <option name="work-year" value="0">7年</option>
+                    <option name="work-year" value="0">8年</option>
+                    <option name="work-year" value="0">9年</option>
+                    <option name="work-year" value="0">10年</option>
+                    <option name="work-year" value="0">10年以上</option>
+                </select>
+            </div>
+        </div>
+
+        <p class="short-input ue-clear">
+            <label>手机：</label>
+            <input type="text" name="phone" placeholder="请输入手机号" />
+        </p>
+        <p class="short-input ue-clear">
+            <label>邮箱：</label>
+            <input type="text" name="email" placeholder="请输入邮箱" />
+        </p>
+        <div class="short-input select ue-clear">
+            <label>目前状态：</label>
+            <div class="select-wrap" >
+                <select name="dept_id" >
+                    <option name="now_state" value="0" selected>我目前已离职，可快速到岗</option>
+                    <option name="now_state" value="0">我目前正在职，正考虑换个新环境</option>
+                    <option name="now_state" value="0">我暂时不想找工作</option>
+                    <option name="now_state" value="0" >我是应届毕业生</option>
+
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="btn ue-clear">
+        <a href="javascript:;" class="confirm">提交</a>
+        <!--<a href="javascript:;" class="clear">清空内容</a>-->
+    </div>
+</form>
+</body>
+<script type="text/javascript" src="/Public/Home/js/jquery.js"></script>
+<script type="text/javascript" src="/Public/Home/js/common.js"></script>
+<script type="text/javascript" src="/Public/Home/js/WdatePicker.js"></script>
+
+<script>
+    $(function(){
+        //点击确定,提交表单
+        $('.confirm').click(function(){
+            $('form').submit();
+        })
+
+        //点击清空内容,还原表单
+//        $('.clear').click(function () {
+//            $('form').get(0).reset();
+//        })
+    })
+</script>
+
+
+
+<script type="text/javascript">
+    $(".select-title").on("click",function(){
+        $(".select-list").toggle();
+        return false;
+    });
+    $(".select-list").on("click","li",function(){
+        var txt = $(this).text();
+        $(".select-title").find("span").text(txt);
+    });
+
+
+    showRemind('input[type=text], textarea','placeholder');
+</script>
+</html>

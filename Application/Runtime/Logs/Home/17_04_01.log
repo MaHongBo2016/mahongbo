@@ -1,0 +1,992 @@
+[ 2017-04-01T13:05:28+08:00 ] 127.0.0.1 /h/suggest.json?query=php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:05:29+08:00 ] 127.0.0.1 /h/jobs/list_php?kd=php&spc=&pl=&gj=&xl=&yx=&gx=&st=&labelWords=&lc=&workAddress=&city=
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:06:03+08:00 ] 127.0.0.1 /h/jobs/list_?kd=&spc=&pl=&gj=&xl=&yx=&gx=&st=&labelWords=&lc=&workAddress=&city=
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:11:31+08:00 ] 127.0.0.1 /h/jobs/list_?kd=&spc=1&pl=&gj=&xl=&yx=&gx=&st=&labelWords=&lc=&workAddress=&city=
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:11:41+08:00 ] 127.0.0.1 /h/suggest.json?query=55
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:11:42+08:00 ] 127.0.0.1 /h/jobs/list_55?kd=55&spc=&pl=&gj=&xl=&yx=&gx=&st=&labelWords=&lc=&workAddress=&city=
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:12:25+08:00 ] 127.0.0.1 /h/suggest.json?query=dff
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:12:25+08:00 ] 127.0.0.1 /h/jobs/list_dff?kd=dff
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:14:55+08:00 ] 127.0.0.1 /h/suggest.json?query=1231
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:14:56+08:00 ] 127.0.0.1 /h/jobs/list_1231?kd=1231
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:15:37+08:00 ] 127.0.0.1 /h/suggest.json?query=1231
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:15:38+08:00 ] 127.0.0.1 /list.html?kd=1231
+ERR: 无法加载控制器:List
+
+[ 2017-04-01T13:19:17+08:00 ] 127.0.0.1 /index.php/Search/clearCon/id/h/suggest.json?query=jaa
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: job E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 89 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined index: job E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 97 行.
+NOTIC: [8] Undefined index: job E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 208 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010194s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010230s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2017-04-01T13:22:24+08:00 ] 127.0.0.1 /h/suggest.json?query=xcv
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:23:20+08:00 ] 127.0.0.1 /h/suggest.json?query=dfb+
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:24:17+08:00 ] 127.0.0.1 /h/suggest.json?query=cxvx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:24:28+08:00 ] 127.0.0.1 /h/suggest.json?query=php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:33:25+08:00 ] 127.0.0.1 /h/suggest.json?query=dfdf
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:33:26+08:00 ] 127.0.0.1 /h/jobs/list_dfdf?kd=dfdf
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:36:31+08:00 ] 127.0.0.1 /h/jobs/l55ist_dfdf?kd=dfdf
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:37:17+08:00 ] 127.0.0.1 /h?kd=dfdf
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:37:56+08:00 ] 127.0.0.1 /h?kd=dfdf
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T13:39:22+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=1231
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-04-01T13:41:03+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=1231
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-04-01T13:41:15+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=java
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-04-01T13:44:25+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=134
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-04-01T13:51:58+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=gf
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010132s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010170s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-04-01T13:52:00+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=ajva
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010019s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-04-01T13:52:01+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=ajv
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010059s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000180s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-04-01T13:52:02+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=aj
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-04-01T14:02:49+08:00 ] 127.0.0.1 /list.html?name=aj
+ERR: 无法加载控制器:List
+
+[ 2017-04-01T14:02:57+08:00 ] 127.0.0.1 /list.html?name=aj
+ERR: 无法加载控制器:List
+
+[ 2017-04-01T14:03:03+08:00 ] 127.0.0.1 /list.html?name=aj
+ERR: 无法加载控制器:List
+
+[ 2017-04-01T14:03:05+08:00 ] 127.0.0.1 /list.html?name=aj
+ERR: 无法加载控制器:List
+
+[ 2017-04-01T14:03:45+08:00 ] 127.0.0.1 /list.html?name=121
+ERR: 无法加载控制器:List
+
+[ 2017-04-01T14:05:14+08:00 ] 127.0.0.1 /list.html?name=121
+ERR: 无法加载控制器:List
+
+[ 2017-04-01T14:14:37+08:00 ] 127.0.0.1 /list.html?name=121
+ERR: 无法加载控制器:List
+
+[ 2017-04-01T14:21:56+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=fg
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-04-01T14:21:56+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=fgd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010739s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-04-01T14:22:34+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=java
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010373s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2017-04-01T14:25:40+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=javba
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010167s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-04-01T14:25:41+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=java
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 403 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 481 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021791s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-04-01T14:33:13+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:35:39+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:35:43+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:35:47+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:35:50+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:36:50+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:36:53+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:38:05+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:38:10+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:41:08+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:41:12+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:41:32+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:41:36+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:43:31+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:43:36+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:44:02+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:44:06+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:52:12+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:52:20+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T14:52:23+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T15:03:52+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T15:08:51+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T15:11:08+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T15:13:11+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T15:13:30+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T15:14:38+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T15:15:27+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T15:18:06+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=java
+ERR: 非法操作:com_index
+
+[ 2017-04-01T15:18:50+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=
+ERR: 非法操作:com_index
+
+[ 2017-04-01T15:19:01+08:00 ] 127.0.0.1 /h/subject/s_worldcup.html?utm_source=DH__lagou&utm_medium=home&utm_campaign=wc
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T15:19:18+08:00 ] 127.0.0.1 /index.php/Search/h/jobs/86989.html
+ERR: 非法操作:h
+
+[ 2017-04-01T15:23:45+08:00 ] 127.0.0.1 /index.php/Search/h/jobs/86989.html
+ERR: 非法操作:h
+
+[ 2017-04-01T15:27:57+08:00 ] 127.0.0.1 /h/jobs/149389.html
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T15:35:33+08:00 ] 127.0.0.1 /h/jobs/149389.html
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T15:35:53+08:00 ] 127.0.0.1 /index.php/JobContent
+ERR: 无法加载控制器:JobContent
+
+[ 2017-04-01T15:44:51+08:00 ] 127.0.0.1 /h/jobs/149389.html
+ERR: 无法加载控制器:H
+
+[ 2017-04-01T16:09:39+08:00 ] 127.0.0.1 /index.php/JobContent/index/id/658.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== Array.id ) ORDER BY j.create_time desc' at line 1
+ [ SQL语句 ] : SELECT j.id,j.name,j.city,j.salary_high,j.salary_low,j.work_year,j.edu,j.welfare,j.create_time,c.short_name,c.trade,c.id cid,s.num,t.stage_name FROM lg_job j left join (lg_company c, lg_scale s ,lg_stage t) on (j.company_id=c.id and c.scale=s.type and j.state=t.type)  WHERE ( j.id == Array.id ) ORDER BY j.create_time desc 
+
+[ 2017-04-01T16:10:16+08:00 ] 127.0.0.1 /index.php/JobContent/index/id/658.html
+ERR: 1054:Unknown column 'Array.id' in 'where clause'
+ [ SQL语句 ] : SELECT j.id,j.name,j.city,j.salary_high,j.salary_low,j.work_year,j.edu,j.welfare,j.create_time,c.short_name,c.trade,c.id cid,s.num,t.stage_name FROM lg_job j left join (lg_company c, lg_scale s ,lg_stage t) on (j.company_id=c.id and c.scale=s.type and j.state=t.type)  WHERE ( j.id = Array.id ) ORDER BY j.create_time desc 
+
+[ 2017-04-01T16:15:04+08:00 ] 127.0.0.1 /index.php/JobContent/index/id/658.html
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT j.id,j.name,j.city,j.salary_high,j.salary_low,j.work_year,j.edu,j.welfare,j.create_time,c.short_name,c.trade,c.id cid,s.num,t.stage_name FROM lg_job j left join (lg_company c, lg_scale s ,lg_stage t) on (j.company_id=c.id and c.scale=s.type and j.state=t.type)  WHERE `id` = '658' ORDER BY j.create_time desc 
+
+[ 2017-04-01T16:15:58+08:00 ] 127.0.0.1 /index.php/JobContent/index/id/658.html
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT j.id,j.name,j.city,j.salary_high,j.salary_low,j.work_year,j.edu,j.welfare,j.create_time,c.short_name,c.trade,c.id cid,s.num,t.stage_name FROM lg_job j left join (lg_company c, lg_scale s ,lg_stage t) on (j.company_id=c.id and c.scale=s.type and j.state=t.type)  WHERE `id` = '658' 
+
+[ 2017-04-01T16:16:57+08:00 ] 127.0.0.1 /index.php/JobContent/index/id/658.html
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT j.id,j.name,j.city,j.salary_high,j.salary_low,j.work_year,j.edu,j.welfare,j.create_time,c.short_name,c.trade,c.id cid,s.num,t.stage_name FROM lg_job j left join (lg_company c, lg_scale s ,lg_stage t) on (j.company_id=c.id and c.scale=s.type and j.state=t.type)  WHERE `id` = '658' 
+
+[ 2017-04-01T16:18:08+08:00 ] 127.0.0.1 /index.php/JobContent/index/id/658.html
+ERR: 1054:Unknown column 'eq' in 'where clause'
+ [ SQL语句 ] : SELECT j.id,j.name,j.city,j.salary_high,j.salary_low,j.work_year,j.edu,j.welfare,j.create_time,c.short_name,c.trade,c.id cid,s.num,t.stage_name FROM lg_job j left join (lg_company c, lg_scale s ,lg_stage t) on (j.company_id=c.id and c.scale=s.type and j.state=t.type)  WHERE (  eq ) AND (  658 ) 
+
+[ 2017-04-01T16:18:36+08:00 ] 127.0.0.1 /index.php/JobContent/index/id/658.html
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT j.id,j.name,j.city,j.salary_high,j.salary_low,j.work_year,j.edu,j.welfare,j.create_time,c.short_name,c.trade,c.id cid,s.num,t.stage_name FROM lg_job j left join (lg_company c, lg_scale s ,lg_stage t) on (j.company_id=c.id and c.scale=s.type and j.state=t.type)  WHERE `id` = '658' 
+
+[ 2017-04-01T18:13:22+08:00 ] 127.0.0.1 /index.php/Search/h/jobs/86989.html
+ERR: 非法操作:h
+
+[ 2017-04-01T19:56:46+08:00 ] 127.0.0.1 /companylist.html
+ERR: 无法加载控制器:Companylist
+
+[ 2017-04-01T20:02:45+08:00 ] 127.0.0.1 /index.php/Search/companylist.html
+ERR: 非法操作:companylist
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/allmobilize.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/jquery.1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/jquery.lib.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/additional-methods.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/home.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/search.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/core.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/ajaxfileupload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/popup.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/Chart.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/count.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/jquery.1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/jquery.lib.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/ajaxfileupload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/additional-methods.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/search.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/Chart.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/home.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/count.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/core.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:00+08:00 ] 127.0.0.1 /Public/Home/js/popup.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/jquery.1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/jquery.lib.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/allmobilize.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/ajaxfileupload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/additional-methods.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/home.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/Chart.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/search.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/count.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/core.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/popup.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/jquery.1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/jquery.lib.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/ajaxfileupload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/additional-methods.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/search.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/Chart.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/home.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/count.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/core.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:11+08:00 ] 127.0.0.1 /Public/Home/js/popup.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/allmobilize.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/jquery.1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/jquery.lib.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/ajaxfileupload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/core.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/additional-methods.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/popup.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/search.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/jquery.1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/jquery.lib.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/ajaxfileupload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/additional-methods.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/search.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:13+08:00 ] 127.0.0.1 /Public/Home/js/core.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:15+08:00 ] 127.0.0.1 /Public/Home/js/popup.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:15+08:00 ] 127.0.0.1 /Public/Home/js/allmobilize.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:15+08:00 ] 127.0.0.1 /Public/Home/js/ajaxfileupload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:15+08:00 ] 127.0.0.1 /Public/Home/js/additional-methods.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:15+08:00 ] 127.0.0.1 /Public/Home/js/jquery.1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:15+08:00 ] 127.0.0.1 /Public/Home/js/jquery.lib.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:15+08:00 ] 127.0.0.1 /Public/Home/js/jquery.1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:15+08:00 ] 127.0.0.1 /Public/Home/js/jquery.lib.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:15+08:00 ] 127.0.0.1 /Public/Home/js/ajaxfileupload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:26:15+08:00 ] 127.0.0.1 /Public/Home/js/additional-methods.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-01T20:50:57+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=%E5%B0%8F%E9%A9%AC
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 402 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 480 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-04-01T20:51:00+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=%E5%B0%8F%E7%B1%B3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 402 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 480 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011785s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-04-01T20:51:01+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=%E5%B0%8F%E7%B1%B3
+ERR: 非法操作:com_index
+
+[ 2017-04-01T21:03:26+08:00 ] 127.0.0.1 /index.php/Search/com_index/?name=%E5%B0%8F%E7%B1%B3
+ERR: 模板不存在:./Application/Home/View/Search/companylist.html
+
+[ 2017-04-01T21:16:40+08:00 ] 127.0.0.1 /index.php/Search/index//suggest.json?query=pjp
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+NOTIC: [8] Undefined index: name E:\zhaozhao\Application\Home\Controller\SearchController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined index: all E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 71 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 74 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 77 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 80 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 83 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 86 行.
+NOTIC: [8] Undefined index: salary E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 92 行.
+NOTIC: [8] Undefined index: workyear E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 93 行.
+NOTIC: [8] Undefined index: city E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 94 行.
+NOTIC: [8] Undefined index: edu E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 95 行.
+NOTIC: [8] Undefined index: nature E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 96 行.
+NOTIC: [8] Undefined variable: result E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 402 行.
+NOTIC: [8] Undefined variable: page E:\zhaozhao\Application\Runtime\Cache\Home\b5c26778e4651bc280b1e3680d7ad0cb.php 第 480 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010152s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
